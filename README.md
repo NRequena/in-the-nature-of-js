@@ -3,7 +3,7 @@ In the Nature of Java Script
 
 Run it on a local server
 
-You can run it using the "Live Server" extension in VSCode on the HTML file.
+Clone the repo, open using VSCode and run the HTML file using a local server, you can use the "Live Server" extension
 
 ToneJS learning.
 
