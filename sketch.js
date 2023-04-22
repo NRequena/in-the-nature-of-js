@@ -23,16 +23,6 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-/* FINAL TODO
-  - Make the SineWave look nicer
-  - Change font and Intro Text for Futura: every time you refresh it it displays a different quote - DONE
-  - Image sequence in Low Res playing in the BG (RadioheadNude)
-  - Add a random pluck synth that plays random notes every loop. (Some Null) - DONE
-  - Make the synths oscillate their parameters in loops 
-  - Publish
-*/
-
-
 /* ------- PATTERN CREATION ------- */
 const bassPattern = new Tone.Pattern(
   (time, note) => {
