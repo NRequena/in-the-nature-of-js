@@ -7,4 +7,5 @@ Clone the repo, open using VSCode and run the HTML file using a local server, yo
 
 ToneJS learning.
 
-![Background](https://user-images.githubusercontent.com/58339988/233808237-4b1d33e3-5a9a-4aae-bc3d-7a7fa04785bb.png)
+
+![Background](https://user-images.githubusercontent.com/58339988/233808394-6adbfb53-0249-46e6-861e-828620ee622b.png)
